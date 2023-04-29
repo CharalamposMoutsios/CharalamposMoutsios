@@ -6,3 +6,9 @@ Feel free to explore my projects ,and even build upon them!
 ### More info :writing_hand:
 I always liked computers and programming, now i have the chance to develop,learn and become better day by day.My goal
 is to learn,write and create code.
+
+# Charalampos Moutsios's Git Status
+
+[![Charalampos Moutsios's GitHub stats](https://github-readme-stats.vercel.app/api?username=charalamposmoutsios&count_private=true&show_icons=true&theme=dracula)](https://github.com/charalamposmoutsios)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charalamposmoutsios&layout=compact&theme=dracula)](https://github.com/charalamposmoutsios)
